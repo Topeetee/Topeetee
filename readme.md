@@ -8,7 +8,7 @@ website ➡️ [https://topeetee.pages.dev/](https://topeetee.pages.dev)
 
 ## 💻 TECH STACK
 
-[html]: (https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.pnghtml-5--v1.png) "HTML 5"
+<!-- [html]: (https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.pnghtml-5--v1.png) "HTML 5"
 [css]: https://img.icons8.com/color/43/000000/css3.png "CSS 3"
 [js]: https://img.icons8.com/color/43/000000/javascript--v1.png "JavaScript"
 [bootstrap]: https://img.icons8.com/color/43/000000/bootstrap.png "Bootstrap"
@@ -20,12 +20,14 @@ website ➡️ [https://topeetee.pages.dev/](https://topeetee.pages.dev)
 [vscode]: https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png "Visual Studio Code"
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-[github]: (https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png)
+[github]: (https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png) -->
 
 <div >
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 </div>
----
+
+
 
 
 
